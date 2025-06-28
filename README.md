@@ -7,7 +7,7 @@ Built with **React** and a reusable **custom hook (`useGif`)**.
 
 ## 🔗 Live Demo
 
-🌐 [View Live] 
+🌐 [View Live] https://randomegif.netlify.app/
 
 ---
 
