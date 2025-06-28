@@ -1,12 +1,30 @@
-# React + Vite
+# 🧩 React Custom Hook Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project demonstrates how to build and use **custom React hooks** to simplify and reuse logic across components. 
+It includes a custom hook example with clean code, comments, and usage examples.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+🔗 [View Live] : 
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📌 Project Features
+
+- ✅ Custom React Hook (`useYourHookName`)
+- ⚛️ Built using React (Vite)
+- ♻️ Reusable and clean logic
+- 💡 Simple demo UI to show hook in action
+
+---
+
+## 🧱 Tech Stack
+
+- React
+- JavaScript (ES6+)
+- CSS  Tailwind
+- Vite 
+- React Icons 
+
+---
